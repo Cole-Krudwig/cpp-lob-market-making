@@ -1,0 +1,2 @@
+strategy,regime,final_pnl,final_inventory,fills,mm_buy_fills,mm_sell_fills,max_abs_inventory,max_drawdown
+InventorySkew,SellPressure,1580.949550,62,3338,1708,1639,94.000000,40.653134

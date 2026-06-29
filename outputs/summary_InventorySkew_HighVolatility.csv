@@ -1,0 +1,2 @@
+strategy,regime,final_pnl,final_inventory,fills,mm_buy_fills,mm_sell_fills,max_abs_inventory,max_drawdown
+InventorySkew,HighVolatility,997.556926,-2,2611,1338,1273,27.000000,5.758600

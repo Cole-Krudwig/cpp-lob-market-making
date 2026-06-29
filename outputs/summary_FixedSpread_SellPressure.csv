@@ -1,0 +1,2 @@
+strategy,regime,final_pnl,final_inventory,fills,mm_buy_fills,mm_sell_fills,max_abs_inventory,max_drawdown
+FixedSpread,SellPressure,-20847.032939,1790,3001,1622,1380,1808.000000,20857.790584

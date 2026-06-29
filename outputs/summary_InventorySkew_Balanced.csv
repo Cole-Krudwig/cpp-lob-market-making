@@ -1,0 +1,2 @@
+strategy,regime,final_pnl,final_inventory,fills,mm_buy_fills,mm_sell_fills,max_abs_inventory,max_drawdown
+InventorySkew,Balanced,1207.061013,4,3425,1731,1717,60.000000,11.773798

@@ -1,0 +1,2 @@
+strategy,regime,final_pnl,final_inventory,fills,mm_buy_fills,mm_sell_fills,max_abs_inventory,max_drawdown
+VolatilityAdjusted,Balanced,1220.624434,-48,3350,1701,1649,80.000000,6.289894
